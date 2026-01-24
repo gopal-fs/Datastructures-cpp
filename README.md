@@ -6,18 +6,18 @@ This repository contains **Data Structures & Algorithms (DSA)** implementations 
 
 ## 📌 What you'll find here
 
-✅ Clean C++ implementations of DSA topics  
-✅ Important coding patterns  
-✅ Solved questions (beginner → advanced)  
-✅ Notes / tricks whenever needed  
-✅ Time & Space complexity (where relevant)
+- ✅ Clean C++ implementations of DSA topics
+- ✅ Important coding patterns
+- ✅ Solved questions (Beginner → Advanced)
+- ✅ Notes / tricks whenever needed
+- ✅ Time & Space complexity (where relevant)
 
 ---
 
 ## 📚 Topics Covered
 
 ### 🔹 Basics
-- Input/Output
+- Input / Output
 - Time Complexity Basics
 - Recursion Basics
 
@@ -30,7 +30,7 @@ This repository contains **Data Structures & Algorithms (DSA)** implementations 
 - Hashing
 
 ### 🔹 Algorithms
-- Searching (Linear, Binary Search)
+- Searching (Linear Search, Binary Search)
 - Sorting (Bubble, Selection, Insertion, Merge, Quick)
 - Two Pointers
 - Sliding Window
@@ -60,6 +60,8 @@ This repository contains **Data Structures & Algorithms (DSA)** implementations 
 ---
 
 ## 🗂️ Repository Structure
+
+```txt
 dsa-cpp/
 │── Arrays/
 │── Strings/
@@ -78,8 +80,6 @@ dsa-cpp/
 │── Greedy/
 │── Patterns/
 └── README.md
-
-
 
 ---
 
@@ -120,12 +120,15 @@ If you find something useful, feel free to ⭐ star the repository.
 
 ---
 
-## 📌 Author
+.
 
-**Gopala Krishna Pinapathuni**  
-**gopalpinapathuni.fs@gmail.com**
-**6302176979**
-📍 India  
+📌 Author
+
+Gopala Krishna Pinapathuni
+📧 Email: gopalpinapathuni.fs@gmail.com
+
+📱 Phone: 6302176979
+📍 India
 🔗 LinkedIn: https://www.linkedin.com/in/gopal-k-aa05a5366/
 
 
