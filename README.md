@@ -80,7 +80,7 @@ dsa-cpp/
 │── Greedy/
 │── Patterns/
 └── README.md
-
+```
 ---
 
 ## 🧠 Goal
